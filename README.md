@@ -7,7 +7,7 @@ I am a computational social scientist trainee who is interested in human behavio
 - 🎓 M.A. in Computational Social Science at the University of Chicago. GPA 3.93/4.0
 - 📚  Reading *A Brief History of Tomorrow*
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Street photography enthusiast, and ex-kayaker :0
+- ⚡ Fun fact: Street photography enthusiast, and former kayaker :0
 
 ![DALL·E 2022-11-23 02.36.26 - A young computational social scientist is taking photos of pedestrians on a street on Mars](figs/dalle-2_pic.jpg)
 
