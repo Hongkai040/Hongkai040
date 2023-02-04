@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a computational social scientist trainee who is interested in human behaviors 💩, human-AI systems 🧍‍♂️🧍‍♀️🤖️, and social inequality 🌟 
+I am a computational social scientist trainee who is interested in human behaviors (mainly focus on polarization) 💩, human-AI systems 🧍‍♂️🧍‍♀️🤖️, and social inequality 🌟 
 
 - 🧐 I’m currently working on online toxicity in some subreddits 🤫
 - 🌱 Currently learning large language models and reinforcement learning. Bankrupted because of overusing GPUs 😭 
